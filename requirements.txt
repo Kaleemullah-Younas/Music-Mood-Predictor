@@ -1,6 +1,6 @@
+streamlit
+numpy
 pandas
 streamlit-lottie
 requests
-pickle
-scikit-learn
 
