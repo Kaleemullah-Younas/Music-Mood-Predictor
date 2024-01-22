@@ -88,5 +88,5 @@ We welcome contributions from the developer community to enhance and refine the 
 
 ## Check this out
 
-Explore the live version of the Music Mood Recommender System on [this URL](https://music-mood-predictor.streamlit.app/){:target="_blank"}.
+Explore the live version of the Music Mood Recommender System on [this URL](https://music-mood-predictor.streamlit.app/)
 
