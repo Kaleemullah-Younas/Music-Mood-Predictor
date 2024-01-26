@@ -82,9 +82,7 @@ Follow these steps to set up and run the project locally:
 
 ## Contribute:
 
-We welcome contributions from the developer community to enhance and refine the Music mood predictor app. Feel free to fork the repository, submit issues, and create pull requests to make this project even more robust and feature-rich.
-
-   <b>Embark on a cinematic journey with our Music mood predictor app and make movie nights unforgettable! 🎬✨</b>
+We welcome contributions from the developer community to enhance and refine the Music mood predictor app. Feel free to fork the repository, submit issues, and create pull requests to make this project even more robust and feature-rich.<b>🎬✨</b>
 
 ## Check this out
 
