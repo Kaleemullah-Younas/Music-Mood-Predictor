@@ -84,7 +84,4 @@ Follow these steps to set up and run the project locally:
 
 We welcome contributions from the developer community to enhance and refine the Music mood predictor app. Feel free to fork the repository, submit issues, and create pull requests to make this project even more robust and feature-rich.<b>🎬✨</b>
 
-## Check this out
-
-Explore the live version of the Music Mood Recommender System on [this URL](https://music-mood-predictor.streamlit.app/)
 
