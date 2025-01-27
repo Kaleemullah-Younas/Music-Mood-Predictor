@@ -5,6 +5,7 @@ import requests
 import pickle
 from streamlit_lottie import st_lottie
 
+# title
 st.set_page_config(page_title="Song Mood Predictor", page_icon=":headphones:", layout="wide")
 # Function to load Lottie animation from URL
 def load_lottieurl(url):
