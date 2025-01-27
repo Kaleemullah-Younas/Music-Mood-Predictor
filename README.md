@@ -77,7 +77,7 @@ Follow these steps to set up and run the project locally:
     ```bash
     streamlit run app.py
     ```
-  The Streamlit app will be hosted on `localhost:8501`.
+  The Streamlit app will be hosted on `localhost:8501`
 
 
 ## Contribute:
